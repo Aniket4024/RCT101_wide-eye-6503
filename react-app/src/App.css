@@ -37,3 +37,9 @@
     transform: rotate(360deg);
   }
 }
+
+.slick-next::before{
+  font-size: 50px;
+  opacity: 1;
+  color: #b33030;
+}

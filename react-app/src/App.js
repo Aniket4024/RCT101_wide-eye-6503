@@ -1,13 +1,12 @@
 import AllRoutes from './AllRoutes/AllRoutes';
 import './App.css';
 import Navbar from './Components/Navbar';
-import { useContext } from "react"
+import { useContext, useEffect } from "react"
 import { ThemeContext } from './Context/ThemeContext';
 
 function App() {
 
-  const {theme} = useContext(ThemeContext)
-
+  const {theme} = useContext(ThemeContext);
   return (
     <div className="App" style={
       theme ? 
