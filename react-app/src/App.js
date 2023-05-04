@@ -1,23 +1,31 @@
-import logo from './logo.svg';
+import AllRoutes from './AllRoutes/AllRoutes';
 import './App.css';
+import Navbar from './Components/Navbar';
+import { useContext } from "react"
+import { ThemeContext } from './Context/ThemeContext';
 
 function App() {
+
+  const {theme} = useContext(ThemeContext)
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App" style={
+      theme ? 
+      {
+        color:"white",
+        backgroundColor:"white"
+      } 
+      : 
+      {
+        color:"rgb(0, 89, 80)",
+        backgroundColor:"white"
+      }}>
+        <Navbar/>
+        <div style={{
+          marginTop:"43px",
+        }}>
+          <AllRoutes/>
+        </div>
     </div>
   );
 }
