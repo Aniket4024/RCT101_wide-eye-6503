@@ -106,13 +106,13 @@ function Navbar(){
                 padding:"0px 20px",
                 backgroundColor:theme ? "rgb(0, 208, 180)" : "rgb(0, 89, 80)",
                 border:"0px",
-                borderRadius:"10px",
+                borderRadius:"15px",
                 color:theme ? "rgb(0, 89, 80)" : "white",
                 letterSpacing:"0.5px",
                 cursor:'pointer',
             }}
             >
-                <p style={{fontWeight:"600"}}>Sign In</p>
+                <p style={{fontWeight:"bold",fontSize:'13px'}}>Sign In</p>
             </button>
         </div>
     </div>

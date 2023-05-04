@@ -6,19 +6,19 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom';
 import ThemeContextProvider from './Context/ThemeContext';
 
+// import "~slick-carousel/slick/slick.css"; 
+// import "~slick-carousel/slick/slick-theme.css";
+
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
-
-
-
-  <ThemeContextProvider>
-    <BrowserRouter>
-      <App />
-    </BrowserRouter>
-  </ThemeContextProvider>
+    <ThemeContextProvider>
+      <BrowserRouter>
+        <App />
+      </BrowserRouter>
+    </ThemeContextProvider>
 );
 
 // If you want to start measuring performance in your app, pass a function
