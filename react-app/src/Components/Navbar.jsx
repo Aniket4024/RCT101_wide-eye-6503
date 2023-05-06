@@ -1,4 +1,3 @@
-import styles from "../CSS/Navbar.module.css"
 import { NavLink } from "react-router-dom"
 import {SunIcon , MoonIcon}from "@chakra-ui/icons"
 import DarkLogo from"../Images/DarkLogo.png"
@@ -16,7 +15,8 @@ function Navbar(){
         fontSize:"18px",
         fontWeight:"700",
         padding:theme ? "12px 2px" : "13.5px 2px",
-        borderBottom:"2px solid rgb(0, 208, 180)"
+        borderBottom:"2px solid rgb(0, 208, 180)",
+        height:"30px"
     }
 
     const defaultStyle = {
@@ -24,7 +24,9 @@ function Navbar(){
         color:theme ? "white" : "rgb(0, 89, 80)",
         fontSize:"18px",
         fontWeight:"700",
-        padding:"5px 2px",
+        padding:"12px 2px",
+        height:"30px"
+
     }
 
     return <div style={{
@@ -102,21 +104,21 @@ function Navbar(){
                 <MoonIcon boxSize="20" style={{cursor:"pointer",marginTop:"10px"}} onClick={()=>toggleTheme()}/>
             }
 
-            <button className={styles.signButn} style={{
-                padding:"0px 20px",
+            <button  style={{
+                padding:"12px 20px",
                 backgroundColor:theme ? "rgb(0, 208, 180)" : "rgb(0, 89, 80)",
                 border:"0px",
                 borderRadius:"15px",
                 color:theme ? "rgb(0, 89, 80)" : "white",
-                letterSpacing:"0.5px",
                 cursor:'pointer',
+                fontWeight:"bold",
+                fontSize:'13px'
             }}
-            >
-                <p style={{fontWeight:"bold",fontSize:'13px'}}>Sign In</p>
+            >Sign In
             </button>
         </div>
-    </div>
-    <hr style={{width:"98%",border:theme ? "1px solid rgb(229, 229, 229)" : "1px solid rgb(229, 229, 229)",marginTop:"-1.5px"}}/>
+        </div>
+        <hr style={{width:"98%",border:"1px solid rgb(229, 229, 229)",marginTop:"-1.5px"}}/>
     </div>
 }
 

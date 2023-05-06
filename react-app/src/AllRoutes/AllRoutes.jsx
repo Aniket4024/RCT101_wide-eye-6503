@@ -4,6 +4,7 @@ import About from "../AllPages/About";
 import Contact from "../AllPages/Contact";
 import Courses from "../AllPages/Courses";
 import Scholarships from "../AllPages/Scholarships";
+import NotFound from "../AllPages/NotFound";
 
 function AllRoutes(){
     return <div>
@@ -13,6 +14,7 @@ function AllRoutes(){
             <Route path="/Contact" element={<Contact/>}></Route>
             <Route path="/Courses" element={<Courses/>}></Route>
             <Route path="/Scholarships" element={<Scholarships/>}></Route>
+            <Route path="*" element={<NotFound/>}></Route>
        </Routes>
     </div>
 }
