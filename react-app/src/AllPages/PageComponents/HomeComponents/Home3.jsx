@@ -12,6 +12,7 @@ import financeDark from "../../../Images/financeDark.png"
 import financeWhite from "../../../Images/financeWhite.png"
 import { ThemeContext } from "../../../Context/ThemeContext"
 import { useContext } from "react"
+import { ChevronRightIcon } from "@chakra-ui/icons"
 function Home3(){
 
     const {theme}  = useContext(ThemeContext)
@@ -113,7 +114,7 @@ function Home3(){
                     color:theme? "rgb(0,89,80)" : "white"
                 }}
             >
-                View All Courses
+                View All Courses <ChevronRightIcon/>
             </button>
         </div>
     </div>
