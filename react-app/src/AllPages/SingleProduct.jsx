@@ -451,8 +451,8 @@ function SingleProduct() {
                             <p style={{ display: "flex", alignItems: 'center', justifyContent: "space-between", gap: "10px" }}>
                                 <div style={{ display: 'flex', gap: "10px", alignItems: 'center' }}>
                                     <MdOndemandVideo />
+                                    How to Ace this Course
                                 </div>
-                                How to Ace this Course
                                 <p style={{ fontSize: "13px", color: "rgba(150, 150, 150, 0.9)", marginRight: "15px" }}>
                                     01:24
                                 </p>

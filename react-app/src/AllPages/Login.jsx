@@ -20,7 +20,7 @@ function Login({handleCheck}){
     
     const [status,setStatus] = useState(isAuth);
     const handleLogin = ()=>{
-        fetch(`http://localhost:8080/users`)
+        fetch(`https://68gp5v.sse.codesandbox.io/users`)
         .then((res)=>res.json())
         .then((data1)=>
                 data1.map((e)=>{
