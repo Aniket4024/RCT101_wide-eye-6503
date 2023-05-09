@@ -1,7 +1,7 @@
 import { useContext } from "react"
 import { ThemeContext } from "../Context/ThemeContext"
 import { NavLink } from "react-router-dom";
-import { AppGalleryButton, AppStoreButton, GooglePlayButton } from "react-mobile-app-button";
+import {  AppStoreButton, GooglePlayButton } from "react-mobile-app-button";
 
 import {
     FaDribbble,
@@ -53,7 +53,7 @@ function Footer(){
         backgroundColor:theme ? "rgb(0,89,80)" : "white",
         paddingTop:"50px",
     }}>
-        <div style={{border:"1px solid rgb(228, 228, 228)",width:"98%",margin:"auto"}}></div>
+        <div style={{border:"1px solid rgb(210, 210, 210)",width:"98%",margin:"auto"}}></div>
         <div style={{
             height:"20%",
             // border:"1px solid red",
@@ -224,7 +224,7 @@ function Footer(){
                     </div>
                 </div>
             </div>
-            <div style={{border:"1px solid rgb(228, 228, 228)",width:"98%",margin:"auto"}}></div>
+            <div style={{border:"1px solid rgb(210, 210, 210)",width:"98%",margin:"auto"}}></div>
             <div style={{
                 height:"20%",
                 width:"100%",

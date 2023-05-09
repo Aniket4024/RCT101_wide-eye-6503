@@ -1,0 +1,1252 @@
+{
+  "users":[
+    {
+      "id":1,
+      "email":"aniketzade4024@gmail.com",
+      "password":"Aniket1234",
+      "name":"Aniket Zade"
+    },
+    {
+      "id":2,
+      "email":"ritesh@gmail.com",
+      "password":"Ritesh123",
+      "name":"Ritesh Kothawade"
+    },
+    {
+      "id":3,
+      "email":"Rajesh@gmail.com",
+      "password":"Rajesh@123",
+      "name":"Rajesh Zade"
+    }
+  ],
+  "products": [
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/2259120_305f_6.jpg",
+      "Title": "The Complete Flutter Development Bootcamp with Dart",
+      "detials": "Officially created in collaboration with the Google Flutter team.",
+      "duration": "29 total hours",
+      "lecture": "217 lectures",
+      "level": "All Levels",
+      "ratings": "5.0",
+      "ratingCount": "(48,675)",
+      "id":1
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/2473048_8255_5.jpg",
+      "Title": "Complete Python Developer in 2023: Zero to Mastery",
+      "detials": "How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web Development, Machine Learning + more!",
+      "duration": "31 total hours",
+      "lecture": "340 lectures",
+      "level": "All Levels",
+      "ratings": "4.6",
+      "ratingCount": "(47,974)",
+      "id":2
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/822444_a6db.jpg",
+      "Title": "Python and Django Full Stack Web Developer Bootcamp",
+      "detials": "Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!",
+      "duration": "32 total hours",
+      "lecture": "198 lectures",
+      "level": "All Levels",
+      "ratings": "4.5",
+      "ratingCount": "(47,267)",
+      "id":3
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/364426_2991_6.jpg",
+      "Title": "JavaScript: Understanding the Weird Parts",
+      "detials": "An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this', build your own framework, and more.",
+      "duration": "12 total hours",
+      "lecture": "89 lectures",
+      "level": "All Levels",
+      "ratings": "4.8",
+      "ratingCount": "(46,733)",
+      "id":4
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/903378_f32d_7.jpg",
+      "Title": "The Python Bible™ | Everything You Need to Program in Python",
+      "detials": "Build 11 Projects and go from Beginner to Pro in Python with the World's Most Fun Project-Based Python Course!",
+      "duration": "9 total hours",
+      "lecture": "74 lectures",
+      "level": "Beginner",
+      "ratings": "3.4",
+      "ratingCount": "(46,309)",
+      "id":5
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1778502_f4b9_12.jpg",
+      "Title": "iOS & Swift - The Complete iOS App Development Bootcamp",
+      "detials": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!",
+      "duration": "60.5 total hours",
+      "lecture": "542 lectures",
+      "level": "All Levels",
+      "ratings": "4.7",
+      "ratingCount": "(84,614)",
+      "id":6
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/705264_caa9_13.jpg",
+      "Title": "Modern React with Redux [2023 Update]",
+      "detials": "Master React and Redux Toolkit.  Includes RTK Query, tons of custom hooks, and more!  Course 100% Updated November 2022",
+      "duration": "37.5 total hours",
+      "lecture": "410 lectures",
+      "level": "All Levels",
+      "ratings": "4.7",
+      "ratingCount": "(82,167)",
+      "id":7
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1187016_51b3.jpg",
+      "Title": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
+      "detials": "JUST COMPLETELY REDONE!  Master SQL, Work With Complex Databases, Build Reports, and More!",
+      "duration": "37.5 total hours",
+      "lecture": "652 lectures",
+      "level": "Beginner",
+      "ratings": "4.6",
+      "ratingCount": "(80,986)",
+      "id":8
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/764164_de03_5.jpg",
+      "Title": "The Complete Web Developer Course 3.0",
+      "detials": "Learn Web Development in 2023! Build apps, website, projects using HTML, CSS, Javascript, PHP, Python, MySQL & more!",
+      "duration": "31 total hours",
+      "lecture": "222 lectures",
+      "level": "All Levels",
+      "ratings": "3.1",
+      "ratingCount": "(71,186)",
+      "id":9
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/647428_be28_10.jpg",
+      "Title": "[NEW] Spring Boot 3, Spring 6 & Hibernate for Beginners",
+      "detials": "Spring Boot 3: Learn Spring 6, Spring REST API, Spring MVC, Spring Security, Thymeleaf, JPA & Hibernate",
+      "duration": "42.5 total hours",
+      "lecture": "547 lectures",
+      "level": "All Levels",
+      "ratings": "4.6",
+      "ratingCount": "(70,802)",
+      "id":10
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/922484_52a1_8.jpg",
+      "Title": "The Complete Node.js Developer Course (3rd Edition)",
+      "detials": "Learn Node.js by building real-world applications with Node JS, Express, MongoDB, Jest, and more!",
+      "duration": "35 total hours",
+      "lecture": "177 lectures",
+      "level": "All Levels",
+      "ratings": "4.6",
+      "ratingCount": "(69,520)",
+      "id":10
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/657932_c7e0_6.jpg",
+      "Title": "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games",
+      "detials": "Created in collaboration with Epic Games. Learn C++ from basics while making your first 5 video games in Unreal",
+      "duration": "29.5 total hours",
+      "lecture": "210 lectures",
+      "level": "All Levels",
+      "ratings": "2.7",
+      "ratingCount": "(64,400)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/382002_5d4a.jpg",
+      "Title": "C# Basics for Beginners: Learn C# Fundamentals by Coding",
+      "detials": "Master C# fundamentals in 6 hours - The most popular course with 50,000+ students, packed with tips and exercises!",
+      "duration": "5.5 total hours",
+      "lecture": "87 lectures",
+      "level": "Beginner",
+      "ratings": "4.5",
+      "ratingCount": "(62,092)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/692188_9da7_30.jpg",
+      "Title": "The Python Mega Course: Learn Python in 60 Days with 20 Apps",
+      "detials": "Take the full course to become a Python programmer, or pick any of the projects to master specific areas of Python.",
+      "duration": "47.5 total hours",
+      "lecture": "429 lectures",
+      "level": "All Levels",
+      "ratings": "4.6",
+      "ratingCount": "(61,946)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1708340_7108_5.jpg",
+      "Title": "Flutter & Dart - The Complete Guide [2023 Edition]",
+      "detials": "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps",
+      "duration": "68.5 total hours",
+      "lecture": "643 lectures",
+      "level": "All Levels",
+      "ratings": "4.6",
+      "ratingCount": "(61,205)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1430746_2f43_10.jpg",
+      "Title": "The Complete Web Developer in 2023: Zero to Mastery",
+      "detials": "Learn to code and become a Web Developer in 2023 with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!",
+      "duration": "39 total hours",
+      "lecture": "406 lectures",
+      "level": "All Levels",
+      "ratings": "4.7",
+      "ratingCount": "(60,905)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/995016_ebf4_3.jpg",
+      "Title": "Vue - The Complete Guide (incl. Router & Composition API)",
+      "detials": "Vue.js is an awesome JavaScript Framework for building Frontend Applications! VueJS mixes the Best of Angular + React!",
+      "duration": "32 total hours",
+      "lecture": "330 lectures",
+      "level": "All Levels",
+      "ratings": "4.7",
+      "ratingCount": "(59,008)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1576854_9aeb_2.jpg",
+      "Title": "Beginning C++ Programming - From Beginner to Beyond",
+      "detials": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered.  C++20 info see below.",
+      "duration": "46 total hours",
+      "lecture": "305 lectures",
+      "level": "All Levels",
+      "ratings": "4.6",
+      "ratingCount": "(58,997)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1035000_c1aa_6.jpg",
+      "Title": "Docker Mastery: with Kubernetes +Swarm from a Docker Captain",
+      "detials": "Build, test, deploy containers with the best mega-course on Docker, Kubernetes, Compose, Swarm and Registry using DevOps",
+      "duration": "21.5 total hours",
+      "lecture": "209 lectures",
+      "level": "All Levels",
+      "ratings": "4.7",
+      "ratingCount": "(58,797)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1793828_7999_2.jpg",
+      "Title": "Docker and Kubernetes: The Complete Guide",
+      "detials": "Build, test, and deploy Docker applications with Kubernetes while learning production-style development workflows",
+      "duration": "22 total hours",
+      "lecture": "317 lectures",
+      "level": "All Levels",
+      "ratings": "4.7",
+      "ratingCount": "(54,169)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/765242_2578_6.jpg",
+      "Title": "R Programming A-Z™: R For Data Science With Real Exercises!",
+      "detials": "Learn Programming In R And R Studio. Data Analytics, Data Science, Statistical Analysis, Packages, Functions, GGPlot2",
+      "duration": "10.5 total hours",
+      "lecture": "79 lectures",
+      "level": "All Levels",
+      "ratings": "4.6",
+      "ratingCount": "(50,132)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/666914_6c60_3.jpg",
+      "Title": "Python for Beginners: Learn Python Programming (Python 3)",
+      "detials": "Learn Python Programming the Easy Way, Complete with Examples, Quizzes, Exercises and more. Learn Python 2 and Python 3.",
+      "duration": "3 total hours",
+      "lecture": "78 lectures",
+      "level": "All Levels",
+      "ratings": "4.5",
+      "ratingCount": "(36,137)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1535678_0ce9_7.jpg",
+        "Title": "Java Programming for Complete Beginners",
+        "detials": "Java Programming for Beginners to Java Object Oriented Programming. Core Java + REST API with Spring Boot. Java 8 to 16.",
+        "duration": "33.5 total hours",
+        "lecture": "406 lectures",
+        "level": "Beginner",
+        "ratings": "4.5",
+        "ratingCount": "(34,822)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/405926_02c8_2.jpg",
+        "Title": "HTML and CSS for Beginners - Build a Website & Launch ONLINE",
+        "detials": "HTML and CSS for Beginners  course will give your all the knowledge you need to master HTML and CSS easily and quickly.",
+        "duration": "6 total hours",
+        "lecture": "49 lectures",
+        "level": "All Levels",
+        "ratings": "4.4",
+        "ratingCount": "(34,625)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/513244_b831_4.jpg",
+        "Title": "Data Science A-Z™: Hands-On Exercises & ChatGPT Bonus [2023]",
+        "detials": "Learn Data Science step by step through real Analytics examples. Data Mining, Modeling, Tableau Visualization and more!",
+        "duration": "21 total hours",
+        "lecture": "216 lectures",
+        "level": "All Levels",
+        "ratings": "4.5",
+        "ratingCount": "(33,095)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1436092_2024_4.jpg",
+        "Title": "React Native - The Practical Guide [2023]",
+        "detials": "Use React Native and your React knowledge to build native iOS and Android Apps - incl. Push Notifications, Hooks, Redux",
+        "duration": "28.5 total hours",
+        "lecture": "289 lectures",
+        "level": "All Levels",
+        "ratings": "4.7",
+        "ratingCount": "(32,968)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/951618_0839_2.jpg",
+      "Title": "The Complete Android N Developer Course",
+      "detials": "Learn Android App Development with Android 7 Nougat by building real apps including Uber, Whatsapp and Instagram!",
+      "duration": "32.5 total hours",
+      "lecture": "272 lectures",
+      "level": "All Levels",
+      "ratings": "4.2",
+      "ratingCount": "(28,508)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1743420_0062.jpg",
+        "Title": "JavaScript Basics for Beginners",
+        "detials": "JavaScript - Master the Fundamentals in 6 Hours",
+        "duration": "6.5 total hours",
+        "lecture": "105 lectures",
+        "level": "Beginner",
+        "ratings": "4.6",
+        "ratingCount": "(28,480)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/461160_8d87_6.jpg",
+        "Title": "Learn and Understand NodeJS",
+        "detials": "Dive deep under the hood of NodeJS. Learn V8, Express, the MEAN stack, core Javascript concepts, and more.",
+        "duration": "13 total hours",
+        "lecture": "97 lectures",
+        "level": "All Levels",
+        "ratings": "4.6",
+        "ratingCount": "(28,257)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1350984_2355_6.jpg",
+        "Title": "The Modern Python 3 Bootcamp",
+        "detials": "A Unique Interactive Python Experience With Nearly 200 Exercises and Quizzes",
+        "duration": "30.5 total hours",
+        "lecture": "377 lectures",
+        "level": "Beginner",
+        "ratings": "4.7",
+        "ratingCount": "(28,188)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/221674_1411_4.jpg",
+        "Title": "Git Complete: The definitive, step-by-step guide to Git",
+        "detials": "Go from zero to hero with Git source control step-by-step with easy to understand examples. Become the next Git expert!",
+        "duration": "6.5 total hours",
+        "lecture": "85 lectures",
+        "level": "All Levels",
+        "ratings": "4.4",
+        "ratingCount": "(27,649)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/836376_8b97_4.jpg",
+        "Title": "Python for Absolute Beginners",
+        "detials": "Learn Python programming from scratch with hands-on exercises in this Python course!",
+        "duration": "4.5 total hours",
+        "lecture": "112 lectures",
+        "level": "Beginner",
+        "ratings": "4.5",
+        "ratingCount": "(27,481)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1247828_32bb.jpg",
+        "Title": "The Complete Angular Course: Beginner to Advanced",
+        "detials": "The most comprehensive Angular 4 (Angular 2+) course. Build a real e-commerce app with Angular, Firebase and Bootstrap 4",
+        "duration": "29.5 total hours",
+        "lecture": "376 lectures",
+        "level": "All Levels",
+        "ratings": "4.4",
+        "ratingCount": "(26,659)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/2365628_0b60_9.jpg",
+        "Title": "Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)",
+        "detials": "Updated! Become a Senior React Developer. Build a massive E-commerce app with Redux, Hooks, GraphQL, Stripe, Firebase",
+        "duration": "40 total hours",
+        "lecture": "333 lectures",
+        "level": "All Levels",
+        "ratings": "4.6",
+        "ratingCount": "(26,321)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/2508942_11d3_3.jpg",
+        "Title": "JavaScript - The Complete Guide 2023 (Beginner + Advanced)",
+        "detials": "Modern JavaScript from the beginning - all the way up to JS expert level! THE must-have JavaScript resource in 2023.",
+        "duration": "52.5 total hours",
+        "lecture": "616 lectures",
+        "level": "All Levels",
+        "ratings": "4.6",
+        "ratingCount": "(26,061)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/913448_e6e2_4.jpg",
+        "Title": "Python A-Z™: Python For Data Science With Real Exercises!",
+        "detials": "Programming In Python For Data Analytics And Data Science. Learn Statistical Analysis, Data Mining And Visualization",
+        "duration": "11 total hours",
+        "lecture": "72 lectures",
+        "level": "All Levels",
+        "ratings": "4.6",
+        "ratingCount": "(25,983)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1466612_bead_3.jpg",
+        "Title": "Ethereum and Solidity: The Complete Developer's Guide",
+        "detials": "Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based on the blockchain",
+        "duration": "24 total hours",
+        "lecture": "267 lectures",
+        "level": "All Levels",
+        "ratings": "4.6",
+        "ratingCount": "(25,479)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1581488_e3e1_2.jpg",
+        "Title": "Complete C# Masterclass",
+        "detials": "Learn C# Programming - WPF, Databases, Linq, Collections, Game Development with Unity. More than just the C# basics!",
+        "duration": "37 total hours",
+        "lecture": "288 lectures",
+        "level": "All Levels",
+        "ratings": "4.5",
+        "ratingCount": "(25,300)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/2153774_bef0_4.jpg",
+        "Title": "Modern HTML & CSS From The Beginning (Including Sass)",
+        "detials": "Build modern responsive websites & UIs with HTML5, CSS3 & Sass! Learn Flex & CSS Grid",
+        "duration": "21 total hours",
+        "lecture": "129 lectures",
+        "level": "All Levels",
+        "ratings": "4.7",
+        "ratingCount": "(25,201)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/505208_2307_5.jpg",
+        "Title": "Responsive Web Design: HTML5 + CSS3 for Entrepreneurs 2018",
+        "detials": "Build a coding foundation as an entrepreneur, where I’ll take you through the entire process of coding your own website",
+        "duration": "5.5 total hours",
+        "lecture": "58 lectures",
+        "level": "Beginner",
+        "ratings": "4.5",
+        "ratingCount": "(25,024)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1248866_794c_6.jpg",
+        "Title": "Alteryx Bootcamp",
+        "detials": "Learn Alteryx in as little as 4 hours with this Bestselling Alteryx Course (+90 minutes of advanced bonus content)",
+        "duration": "6.5 total hours",
+        "lecture": "95 lectures",
+        "level": "Beginner",
+        "ratings": "4.6",
+        "ratingCount": "(24,881)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1988542_3bcb_12.jpg",
+        "Title": "Kubernetes Certified Application Developer (CKAD) with Tests",
+        "detials": "Learn concepts and practice for the Kubernetes Certification with hands-on labs right in your browser - DevOps - CKAD",
+        "duration": "15 total hours",
+        "lecture": "184 lectures",
+        "level": "All Levels",
+        "ratings": "4.7",
+        "ratingCount": "(24,839)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/827692_91ad_2.jpg",
+      "Title": "The Complete Java Certification Course",
+      "detials": "Become a confident industry ready core Java developer and get certified as a Java professional!",
+      "duration": "17.5 total hours",
+      "lecture": "64 lectures",
+      "level": "All Levels",
+      "ratings": "4.6",
+      "ratingCount": "(24,026)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1406344_1d65_3.jpg",
+        "Title": "JavaScript Algorithms and Data Structures Masterclass",
+        "detials": "The Missing Computer Science and Coding Interview Bootcamp",
+        "duration": "22 total hours",
+        "lecture": "249 lectures",
+        "level": "All Levels",
+        "ratings": "4.7",
+        "ratingCount": "(23,911)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/405282_27d2_3.jpg",
+        "Title": "PHP for Beginners - Become a PHP Master - CMS Project",
+        "detials": "PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects.",
+        "duration": "37 total hours",
+        "lecture": "336 lectures",
+        "level": "All Levels",
+        "ratings": "4.4",
+        "ratingCount": "(23,661)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/833442_b26e_5.jpg",
+        "Title": "Angular & NodeJS - The MEAN Stack Guide [2023 Edition]",
+        "detials": "Learn how to connect your Angular Frontend to a NodeJS & Express & MongoDB Backend by building a real Application",
+        "duration": "12.5 total hours",
+        "lecture": "152 lectures",
+        "level": "All Levels",
+        "ratings": "4.6",
+        "ratingCount": "(23,507)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/882826_4687_3.jpg",
+        "Title": "The Complete Python Programming Course: Beginner to Advanced",
+        "detials": "Learn Python with projects covering game & web development, web scraping, MongoDB, Django, PyQt, and data visualization!",
+        "duration": "18 total hours",
+        "lecture": "147 lectures",
+        "level": "All Levels",
+        "ratings": "4.2",
+        "ratingCount": "(23,463)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/642102_4e20_2.jpg",
+      "Title": "Learn How To Code: Google's Go (golang) Programming Language",
+      "detials": "The Ultimate Comprehensive Course - Perfect for Both Beginners and Experienced Developers",
+      "duration": "53.5 total hours",
+      "lecture": "460 lectures",
+      "level": "All Levels",
+      "ratings": "4.5",
+      "ratingCount": "(21,046)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1455016_0b2d_2.jpg",
+        "Title": "Build an app with ASPNET Core and Angular from scratch",
+        "detials": "A practical example of how to build an application with ASP.NET Core API and Angular from start to finish",
+        "duration": "35.5 total hours",
+        "lecture": "275 lectures",
+        "level": "Beginner",
+        "ratings": "4.6",
+        "ratingCount": "(20,755)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/356030_0209_4.jpg",
+        "Title": "C# Advanced Topics: Prepare for Technical Interviews",
+        "detials": "Master the confusing C# constructs: Events, Delegates, Lambda Expressions, LINQ, Async/Await and more!",
+        "duration": "3 total hours",
+        "lecture": "21 lectures",
+        "level": "Intermediate",
+        "ratings": "4.4",
+        "ratingCount": "(20,684)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/970600_68be_4.jpg",
+        "Title": "REST APIs with Flask and Python in 2023",
+        "detials": "Build professional REST APIs with Python, Flask, Docker, Flask-Smorest, and Flask-SQLAlchemy",
+        "duration": "12 total hours",
+        "lecture": "123 lectures",
+        "level": "Intermediate",
+        "ratings": "4.6",
+        "ratingCount": "(20,079)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1547268_1b84_3.jpg",
+      "Title": "The Complete Python Course | Learn Python by Doing in 2023",
+      "detials": "Go from Beginner to Expert in Python by building projects. The best investment for your Python journey!",
+      "duration": "35.5 total hours",
+      "lecture": "346 lectures",
+      "level": "All Levels",
+      "ratings": "4.6",
+      "ratingCount": "(19,683)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/770336_d591_4.jpg",
+      "Title": "Understanding Jira for users, managers and admins",
+      "detials": "Everything you need to know to get started with Atlassian's powerful agile project management and issue tracker tool.",
+      "duration": "7 total hours",
+      "lecture": "65 lectures",
+      "level": "All Levels",
+      "ratings": "4.5",
+      "ratingCount": "(17,166)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1212032_b7e8.jpg",
+        "Title": "Python for Financial Analysis and Algorithmic Trading",
+        "detials": "Learn numpy , pandas , matplotlib , quantopian , finance , and more for algorithmic trading with Python!",
+        "duration": "16.5 total hours",
+        "lecture": "120 lectures",
+        "level": "All Levels",
+        "ratings": "4.3",
+        "ratingCount": "(17,072)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/892806_514e_3.jpg",
+        "Title": "Apache Spark with Scala - Hands On with Big Data!",
+        "detials": "Apache Spark tutorial with 20+  hands-on examples of analyzing large data sets, on your desktop or on Hadoop with Scala!",
+        "duration": "9 total hours",
+        "lecture": "69 lectures",
+        "level": "All Levels",
+        "ratings": "4.5",
+        "ratingCount": "(16,791)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/456460_2b1c_4.jpg",
+        "Title": "MasterClass Software Testing with Jira & Agile -Be a QA Lead",
+        "detials": "2023 BEST job oriented Software Manual Testing course on real time Project+Interview ques+Resume Prep+ Lifetime Support",
+        "duration": "10.5 total hours",
+        "lecture": "80 lectures",
+        "level": "All Levels",
+        "ratings": "4.5",
+        "ratingCount": "(16,799)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/53670_9ee2_8.jpg",
+        "Title": "Selenium 4 WebDriver with Java(Basics + Advance + Architect)",
+        "detials": "#1 2022 TOP RATED, BEST SELLER Course on SELENIUM 4.0, Trusted by 500,000+ students with Many Live Projects & Frameworks",
+        "duration": "143.5 total hours",
+        "lecture": "469 lectures",
+        "level": "All Levels",
+        "ratings": "4.4",
+        "ratingCount": "(16,763)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/549998_134f_16.jpg",
+        "Title": "The Complete Oracle SQL Bootcamp (2023)",
+        "detials": "Become an In-demand SQL Professional! Pass Oracle SQL 1Z0-071 (OCA) Certification Exam Confidently!",
+        "duration": "38.5 total hours",
+        "lecture": "400 lectures",
+        "level": "All Levels",
+        "ratings": "4.6",
+        "ratingCount": "(16,709)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/246314_3f1f_5.jpg",
+        "Title": "Appium -Mobile Testing (Android/IOS) from Scratch+Frameworks",
+        "detials": "[LATEST VERSION 2.0] Master on Mobile Apps Automation Testing from basics to Framework CI/CD with real time examples",
+        "duration": "25.5 total hours",
+        "lecture": "155 lectures",
+        "level": "All Levels",
+        "ratings": "4.6",
+        "ratingCount": "(16,712)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1326292_4dcf.jpg",
+        "Title": "Complete Guide to TensorFlow for Deep Learning with Python",
+        "detials": "Learn how to use Google's Deep Learning Framework - TensorFlow with Python! Solve problems with cutting edge techniques!",
+        "duration": "14 total hours",
+        "lecture": "96 lectures",
+        "level": "Intermediate",
+        "ratings": "4.3",
+        "ratingCount": "(16,662)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1313502_b57f_2.jpg",
+        "Title": "Bootstrap 4 From Scratch With 5 Projects",
+        "detials": "Master Bootstrap 4 and build 5 real world themes while learning HTML5 semantics & CSS3",
+        "duration": "11.5 total hours",
+        "lecture": "74 lectures",
+        "level": "All Levels",
+        "ratings": "4.6",
+        "ratingCount": "(16,540)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/3792262_6b0c_2.jpg",
+        "Title": "The Git & Github Bootcamp",
+        "detials": "Master the essentials and the tricky bits: rebasing, squashing, stashing, reflogs, blobs, trees, & more!",
+        "duration": "17 total hours",
+        "lecture": "188 lectures",
+        "level": "Beginner",
+        "ratings": "4.8",
+        "ratingCount": "(16,535)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/520116_edf5_2.jpg",
+      "Title": "The Complete WordPress Website Business Course",
+      "detials": "Master WordPress with this Complete WordPress Course, without learning how to code and without any programming!",
+      "duration": "22 total hours",
+      "lecture": "116 lectures",
+      "level": "All Levels",
+      "ratings": "4.1",
+      "ratingCount": "(14,640)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/714724_b3b4_9.jpg",
+        "Title": "Docker Crash Course for busy DevOps and Developers",
+        "detials": "Learn how to develop and deploy web applications with Docker technologies. Take your DevOps skills to the next level.",
+        "duration": "3 total hours",
+        "lecture": "49 lectures",
+        "level": "All Levels",
+        "ratings": "4.5",
+        "ratingCount": "(14,532)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1254420_f6cb_4.jpg",
+        "Title": "Node with React: Fullstack Web Development",
+        "detials": "Build and deploy fullstack web apps with NodeJS, React, Redux, Express, and MongoDB.",
+        "duration": "26 total hours",
+        "lecture": "219 lectures",
+        "level": "All Levels",
+        "ratings": "4.4",
+        "ratingCount": "(14,453)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1419186_5b21_2.jpg",
+        "Title": "Data Structures and Algorithms:  Deep Dive Using Java",
+        "detials": "Learn about Arrays,  Linked Lists, Trees,  Hashtables, Stacks,  Queues,  Heaps, Sort algorithms and Search algorithms",
+        "duration": "16 total hours",
+        "lecture": "116 lectures",
+        "level": "Intermediate",
+        "ratings": "4.4",
+        "ratingCount": "(14,290)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1409142_1879_8.jpg",
+        "Title": "The Coding Interview Bootcamp: Algorithms + Data Structures",
+        "detials": "Ace your next Javascript coding interview by mastering data structures and algorithms.",
+        "duration": "13 total hours",
+        "lecture": "139 lectures",
+        "level": "All Levels",
+        "ratings": "4.8",
+        "ratingCount": "(14,105)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1265410_cb96_4.jpg",
+        "Title": "Postman: The Complete Guide - REST API Testing",
+        "detials": "Postman API testing for manual and automated tests. Automate with Newman, Jenkins or any other CI tool.",
+        "duration": "20 total hours",
+        "lecture": "221 lectures",
+        "level": "All Levels",
+        "ratings": "4.7",
+        "ratingCount": "(14,089)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/446134_383c_3.jpg",
+      "Title": "Ultimate Web Designer & Web Developer Course",
+      "detials": "Become a Full-Stack Web Designer in 2023 - Learn Everything from Web Design Fundamentals to Front-End Web Development",
+      "duration": "35 total hours",
+      "lecture": "263 lectures",
+      "level": "All Levels",
+      "ratings": "4.5",
+      "ratingCount": "(14,054)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/397068_f67e_5.jpg",
+        "Title": "Selenium Webdriver with PYTHON from Scratch + Frameworks",
+        "detials": "Version 4 LATEST - Learn Python Programming & Selenium Python Automation from Basics to Advanced level + 5 LIVE Project",
+        "duration": "17 total hours",
+        "lecture": "121 lectures",
+        "level": "All Levels",
+        "ratings": "4.5",
+        "ratingCount": "(13,994)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/131816_9683_10.jpg",
+        "Title": "The Agile Samurai Bootcamp",
+        "detials": "Everything you need to setup, execute, and successfully deliver your own Agile project.",
+        "duration": "3 total hours",
+        "lecture": "34 lectures",
+        "level": "All Levels",
+        "ratings": "4.4",
+        "ratingCount": "(13,870)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/892102_963b.jpg",
+        "Title": "iOS 10 & Swift 3: From Beginner to Paid Professional™",
+        "detials": "The most comprehensive course on iOS development - become a master of app development",
+        "duration": "71 total hours",
+        "lecture": "251 lectures",
+        "level": "All Levels",
+        "ratings": "4.4",
+        "ratingCount": "(13,675)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/977360_8585_4.jpg",
+        "Title": "Learn DevOps: Infrastructure Automation With Terraform",
+        "detials": "Learn how to automate your infrastructure with terraform. Covers Terraform with AWS, Packer, Docker, ECS, EKS, Jenkins",
+        "duration": "11.5 total hours",
+        "lecture": "120 lectures",
+        "level": "Beginner",
+        "ratings": "4.4",
+        "ratingCount": "(13,600)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1310772_2dd5_8.jpg",
+      "Title": "Scala & Functional Programming Essentials | Rock the JVM",
+      "detials": "Become a Scala programmer and get the skills you need to work with Spark, Akka, and any Scala framework!",
+      "duration": "11.5 total hours",
+      "lecture": "40 lectures",
+      "level": "Intermediate",
+      "ratings": "4.7",
+      "ratingCount": "(12,787)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1078208_530c_3.jpg",
+        "Title": "Learn Spring Boot 3 in 100 Steps - No 1 Java Framework",
+        "detials": "Java Spring Boot Framework in 100 steps - Build a REST API and a Web application with Java, JPA, SpringBoot and Maven",
+        "duration": "15.5 total hours",
+        "lecture": "158 lectures",
+        "level": "All Levels",
+        "ratings": "4.5",
+        "ratingCount": "(12,759)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1501104_967d_13.jpg",
+        "Title": "JavaScript: The Advanced Concepts (2023 Update)",
+        "detials": "Learn modern advanced JavaScript practices and be in the top 10% of JavaScript developers",
+        "duration": "25.5 total hours",
+        "lecture": "230 lectures",
+        "level": "All Levels",
+        "ratings": "4.8",
+        "ratingCount": "(12,705)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/551498_7081.jpg",
+        "Title": "Entity Framework in Depth: The Complete Guide",
+        "detials": "Connect your applications to a SQL Server database",
+        "duration": "6.5 total hours",
+        "lecture": "79 lectures",
+        "level": "Intermediate",
+        "ratings": "4.6",
+        "ratingCount": "(12,655)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1315262_b3cb_2.jpg",
+        "Title": "DevOps: CI/CD with Jenkins pipelines, Maven, Gradle",
+        "detials": "Build continuous integration, continuous delivery and DevOps pipelines with Java, Gradle, Maven, Artifactory & Sqitch.",
+        "duration": "3.5 total hours",
+        "lecture": "30 lectures",
+        "level": "All Levels",
+        "ratings": "4.4",
+        "ratingCount": "(12,326)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/2634490_e343_3.jpg",
+      "Title": "The Modern Javascript Bootcamp Course (2022)",
+      "detials": "The most up-to-date JS resource online! Master Javascript by building a beautiful portfolio of projects!",
+      "duration": "52 total hours",
+      "lecture": "483 lectures",
+      "level": "All Levels",
+      "ratings": "4.7",
+      "ratingCount": "(11,442)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/2470214_97a0_5.jpg",
+        "Title": "Cypress -Modern Automation Testing from Scratch + Frameworks",
+        "detials": "Learn how to write fast and robust Automated (UI + Integration) Tests using Cypress with Mocha and Cucumber frameworks",
+        "duration": "17 total hours",
+        "lecture": "102 lectures",
+        "level": "All Levels",
+        "ratings": "4.6",
+        "ratingCount": "(11,370)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1693880_298f_2.jpg",
+        "Title": "Selenium WebDriver with Java for beginners",
+        "detials": "Selenium WebDriver with Java and TestNG. Tutorial designed for complete beginners in Selenium testing and automation",
+        "duration": "6.5 total hours",
+        "lecture": "46 lectures",
+        "level": "Beginner",
+        "ratings": "2.3",
+        "ratingCount": "(11,369)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/2462140_b27f_2.jpg",
+        "Title": "Learn JAVA Programming - Beginner to Master",
+        "detials": "Deep Dive in Core Java programming -Standard Edition. A Practical approach to learn Java. Become a Java Expert",
+        "duration": "61.5 total hours",
+        "lecture": "333 lectures",
+        "level": "All Levels",
+        "ratings": "4.6",
+        "ratingCount": "(11,249)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/3873464_403c.jpg",
+        "Title": "Next.js & React - The Complete Guide (incl. Two Paths!)",
+        "detials": "Learn NextJS from the ground up and build production-ready, fullstack ReactJS apps with the NextJS framework!",
+        "duration": "25 total hours",
+        "lecture": "276 lectures",
+        "level": "All Levels",
+        "ratings": "4.7",
+        "ratingCount": "(11,168)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1110626_255b_5.jpg",
+      "Title": "RPG Core Combat Creator: Learn Intermediate Unity C# Coding",
+      "detials": "Build Combat for Role Playing Game (RPG) in Unity. Tutorials Cover Code Architecture & Video Game Design.",
+      "duration": "27.5 total hours",
+      "lecture": "190 lectures",
+      "level": "Intermediate",
+      "ratings": "4.8",
+      "ratingCount": "(10,602)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1175200_2723.jpg",
+      "Title": "Statistics for Business Analytics and Data Science A-Z™",
+      "detials": "Learn The Core Stats For A Data Science Career. Master Statistical Significance, Confidence Intervals And Much More!",
+      "duration": "6 total hours",
+      "lecture": "41 lectures",
+      "level": "All Levels",
+      "ratings": "4.7",
+      "ratingCount": "(10,544)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1329100_571a.jpg",
+      "Title": "Progressive Web Apps (PWA) - The Complete Guide",
+      "detials": "Build a Progressive Web App (PWA) that feels like an iOS & Android App, using Device Camera, Push Notifications and more",
+      "duration": "16 total hours",
+      "lecture": "208 lectures",
+      "level": "All Levels",
+      "ratings": "4.6",
+      "ratingCount": "(10,517)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/43718_e5ca_10.jpg",
+      "Title": "C++: From Beginner to Expert",
+      "detials": "Designed for people who don't have any knowledge about the programming and want to program in C++",
+      "duration": "17.5 total hours",
+      "lecture": "97 lectures",
+      "level": "All Levels",
+      "ratings": "4.1",
+      "ratingCount": "(10,417)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1341538_b1e7_4.jpg",
+      "Title": "Master Hibernate and JPA with Spring Boot in 100 Steps",
+      "detials": "Learn Hibernate, JPA (Java Persistence API) and Spring Data JPA using Spring and Spring Boot",
+      "duration": "14 total hours",
+      "lecture": "164 lectures",
+      "level": "All Levels",
+      "ratings": "3.2",
+      "ratingCount": "(9,656)",
+      "ud-sr-only 12": "Original Price"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1583482_7f8e_2.jpg",
+      "Title": "Bash Shell Scripting: Crash Course For Beginners",
+      "detials": "Learn Bash Shell Scripting from total beginner:Start from the Command Line,finish with a real world Shell Script Project",
+      "duration": "5.5 total hours",
+      "lecture": "75 lectures",
+      "level": "All Levels",
+      "ratings": "4.5",
+      "ratingCount": "(9,631)",
+      "ud-sr-only 12": "Original Price"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1080408_2645_3.jpg",
+      "Title": "Artificial Intelligence: Reinforcement Learning in Python",
+      "detials": "Complete guide to Reinforcement Learning, with Stock Trading and Online Advertising Applications",
+      "duration": "14.5 total hours",
+      "lecture": "111 lectures",
+      "level": "Intermediate",
+      "ratings": "4.7",
+      "ratingCount": "(9,619)",
+      "ud-sr-only 12": ""
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/577248_3b6f_13.jpg",
+      "Title": "Python for Beginners with Examples",
+      "detials": "A Python course for the busy ones to learn Python programming. Learn and practice Python by building two complete apps.",
+      "duration": "4.5 total hours",
+      "lecture": "84 lectures",
+      "level": "Beginner",
+      "ratings": "4.6",
+      "ratingCount": "(9,491)",
+      "ud-sr-only 12": "Original Price"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/2640372_5b44_5.jpg",
+      "Title": "React, NodeJS, Express & MongoDB - The MERN Fullstack Guide",
+      "detials": "Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN) with this project-focused course.",
+      "duration": "19 total hours",
+      "lecture": "208 lectures",
+      "level": "All Levels",
+      "ratings": "4.6",
+      "ratingCount": "(9,441)",
+      "ud-sr-only 12": "Original Price"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/2430492_5cdb_8.jpg",
+      "Title": "Tensorflow 2.0: Deep Learning and Artificial Intelligence",
+      "detials": "Machine Learning & Neural Networks for Computer Vision, Time Series Analysis, NLP, GANs, Reinforcement Learning, +More!",
+      "duration": "23.5 total hours",
+      "lecture": "137 lectures",
+      "level": "All Levels",
+      "ratings": "3.9",
+      "ratingCount": "(9,053)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1656228_5278_5.jpg",
+      "Title": "Java Multithreading, Concurrency & Performance Optimization",
+      "detials": "Become an expert in Multithreading, Concurrency & Parallel programming in Java, with strong emphasis on high performance",
+      "duration": "4.5 total hours",
+      "lecture": "34 lectures",
+      "level": "All Levels",
+      "ratings": "4.6",
+      "ratingCount": "(9,019)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/965528_737d_7.jpg",
+      "Title": "Web Development Masterclass - Online Certification Course",
+      "detials": "Cloud Computing | Web Apps | Linux | Web Servers | DBMS | LAMP Stack | HTML | CSS | JavaScript | PHP | + More",
+      "duration": "26 total hours",
+      "lecture": "398 lectures",
+      "level": "All Levels",
+      "ratings": "3.5",
+      "ratingCount": "(8,995)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/2395488_bd78_2.jpg",
+      "Title": "React Front To Back",
+      "detials": "Learn Modern React 16.8+ Including Hooks, Context API, Full Stack MERN & Redux By Building Real Life Projects",
+      "duration": "14 total hours",
+      "lecture": "91 lectures",
+      "level": "All Levels",
+      "ratings": "4.2",
+      "ratingCount": "(8,959)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/821986_7b38_5.jpg",
+      "Title": "Complete Java SE 8 Developer Bootcamp - OCA Prep Included",
+      "detials": "Master the Foundations of Java and the Topics of the Oracle Certified Associate, Java SE 8 Programmer Exam (1Z0-808)",
+      "duration": "12 total hours",
+      "lecture": "165 lectures",
+      "level": "All Levels",
+      "ratings": "4.5",
+      "ratingCount": "(8,911)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1793080_8158_3.jpg",
+      "Title": "Python for Beginners",
+      "detials": "Learn Fastest Growing language",
+      "duration": "14 total hours",
+      "lecture": "103 lectures",
+      "level": "Beginner",
+      "ratings": "4.4",
+      "ratingCount": "(8,338)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1692036_419c_2.jpg",
+      "Title": "Modern Java - Learn Java 8 features by coding it",
+      "detials": "Learn Lambdas, Streams , new Date APIs, Optionals and Parallel programming in Java 8 by coding it.",
+      "duration": "11 total hours",
+      "lecture": "102 lectures",
+      "level": "All Levels",
+      "ratings": "4.5",
+      "ratingCount": "(8,322)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1575562_f44d_2.jpg",
+      "Title": "Interactive Python Dashboards with Plotly and Dash",
+      "detials": "Learn how to create interactive plots and intelligent dashboards with Plotly, Python, and the Dash library!",
+      "duration": "9.5 total hours",
+      "lecture": "69 lectures",
+      "level": "Intermediate",
+      "ratings": "4.6",
+      "ratingCount": "(8,290)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/670034_ce04_6.jpg",
+      "Title": "Advanced Javascript",
+      "detials": "In only seven hours you will learn enough javascript to transform from a Junior JS Dev into a Senior JS Guru",
+      "duration": "6.5 total hours",
+      "lecture": "47 lectures",
+      "level": "Intermediate",
+      "ratings": "2.8",
+      "ratingCount": "(8,259)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/563066_4981_2.jpg",
+      "Title": "Shell Scripting: Discover How to Automate Command Line Tasks",
+      "detials": "Learn shell programming for Linux, Unix, & Mac. Learn how to write shell scripts like a pro & solve real-world problems!",
+      "duration": "6 total hours",
+      "lecture": "48 lectures",
+      "level": "All Levels",
+      "ratings": "4.5",
+      "ratingCount": "(8,243)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1153742_e649.jpg",
+      "Title": "Advanced AI: Deep Reinforcement Learning in Python",
+      "detials": "The Complete Guide to Mastering Artificial Intelligence using Deep Learning and Neural Networks",
+      "duration": "10.5 total hours",
+      "lecture": "79 lectures",
+      "ratings": "4.6",
+      "ratingCount": "(5,039)",
+      "ud-sr-only 12": ""
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/65830_9629_3.jpg",
+        "Title": "The Java Spring Tutorial: Learn Java's Popular Web Framework",
+        "detials": "Learn the hottest, most in-demand Java web framework, including web programming with Spring MVC and Hibernate. Lifetime access with no subscription on Udemy.",
+        "duration": "28 total hours",
+        "lecture": "175 lectures",
+        "ratings": "3.9",
+        "ratingCount": "(4,424)",
+        "ud-sr-only 12": "Original Price"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1775858_9e8a.jpg",
+        "Title": "Advanced Scala and Functional Programming | Rock the JVM",
+        "detials": "For Scala developers: become a top level Scala programmer so you can rock Spark, Akka, Cats or any Scala tool!",
+        "duration": "13.5 total hours",
+        "lecture": "51 lectures",
+        "ratings": "4.6",
+        "ratingCount": "(2,966)",
+        "ud-sr-only 12": "Original Price"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/2593518_856b.jpg",
+        "Title": "Django master course with real world practical project 2022",
+        "detials": "Django from zero to hero :  from learning all basic of python to advanced Django real world website project",
+        "duration": "49.5 total hours",
+        "lecture": "359 lectures",
+        "ratings": "3.5",
+        "ratingCount": "(2,405)",
+        "ud-sr-only 12": "Original Price"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/2310440_7c36_3.jpg",
+        "Title": "Cutting-Edge AI: Deep Reinforcement Learning in Python",
+        "detials": "Apply deep learning to artificial intelligence and reinforcement learning using evolution strategies, A2C, and DDPG",
+        "duration": "8.5 total hours",
+        "lecture": "50 lectures",
+        "ratings": "4.7",
+        "ratingCount": "(1,898)",
+        "ud-sr-only 12": "Original Price",
+        "level":"Expert"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1570972_abb7.jpg",
+        "Title": "Continuous Deployments using Spinnaker on AWS and Kubernetes",
+        "detials": "Use Spinnaker to execute your DevOps strategy. Use immutable infrastructure to deploy using Spinnak on AWS or Kubernetes",
+        "duration": "4.5 total hours",
+        "lecture": "48 lectures",
+        "ratings": "4.7",
+        "ratingCount": "(1,855)",
+        "ud-sr-only 12": "Original Price"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1250764_bb5e_3.jpg",
+        "Title": "Automation Testing using Selenium & Katalon Studio",
+        "detials": "Learn to automate web application with Katalon Studio , which is as simple as using the excel file",
+        "duration": "19.5 total hours",
+        "lecture": "174 lectures",
+        "ratings": "4.2",
+        "ratingCount": "(1,855)",
+        "ud-sr-only 12": "Original Price"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/980798_6081.jpg",
+      "Title": "Spark and Python for Big Data with PySpark",
+      "detials": "Learn how to use Spark with Python, including Spark Streaming, Machine Learning, Spark 2.0 DataFrames and more!",
+      "duration": "10.5 total hours",
+      "lecture": "67 lectures",
+      "ratings": "4.5",
+      "ratingCount": "(21,511)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/356030_0209_4.jpg",
+        "Title": "C# Advanced Topics: Prepare for Technical Interviews",
+        "detials": "Master the confusing C# constructs: Events, Delegates, Lambda Expressions, LINQ, Async/Await and more!",
+        "duration": "3 total hours",
+        "lecture": "21 lectures",
+        "ratings": "4.4",
+        "ratingCount": "(20,684)",
+        "level":"Expert"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/970600_68be_4.jpg",
+        "Title": "REST APIs with Flask and Python in 2023",
+        "detials": "Build professional REST APIs with Python, Flask, Docker, Flask-Smorest, and Flask-SQLAlchemy",
+        "duration": "12 total hours",
+        "lecture": "123 lectures",
+        "ratings": "4.6",
+        "ratingCount": "(20,079)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1326292_4dcf.jpg",
+        "Title": "Complete Guide to TensorFlow for Deep Learning with Python",
+        "detials": "Learn how to use Google's Deep Learning Framework - TensorFlow with Python! Solve problems with cutting edge techniques!",
+        "duration": "14 total hours",
+        "lecture": "96 lectures",
+        "ratings": "4.3",
+        "ratingCount": "(16,662)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1646980_23f7_3.jpg",
+        "Title": "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
+        "detials": "Build and deploy a social network with Node.js, Express, React, Redux & MongoDB. Fully updated April 2019",
+        "duration": "12 total hours",
+        "lecture": "73 lectures",
+        "ratings": "4.5",
+        "ratingCount": "(15,178)"
+    },
+    {
+        "image": "https://img-b.udemycdn.com/course/240x135/1419186_5b21_2.jpg",
+        "Title": "Data Structures and Algorithms:  Deep Dive Using Java",
+        "detials": "Learn about Arrays,  Linked Lists, Trees,  Hashtables, Stacks,  Queues,  Heaps, Sort algorithms and Search algorithms",
+        "duration": "16 total hours",
+        "lecture": "116 lectures",
+        "ratings": "4.4",
+        "ratingCount": "(14,290)",
+        "level":"Expert"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/903378_f32d_7.jpg",
+      "Title": "The Python Bible™ | Everything You Need to Program in Python",
+      "detials": "Build 11 Projects and go from Beginner to Pro in Python with the World's Most Fun Project-Based Python Course!",
+      "duration": "9 total hours",
+      "lecture": "74 lectures",
+      "ratings": "4.6",
+      "ratingCount": "(46,309)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1419182_b2cf.jpg",
+      "Title": "SQL for Beginners: Learn SQL using MySQL and Database Design",
+      "detials": "Understand SQL using the MySQL database. Learn Database Design and Data Analysis with Normalization and Relationships",
+      "duration": "8 total hours",
+      "lecture": "122 lectures",
+      "ratings": "4.5",
+      "ratingCount": "(44,710)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1535678_0ce9_7.jpg",
+      "Title": "Java Programming for Complete Beginners",
+      "detials": "Java Programming for Beginners to Java Object Oriented Programming. Core Java + REST API with Spring Boot. Java 8 to 16.",
+      "duration": "33.5 total hours",
+      "lecture": "406 lectures",
+      "ratings": "4.5",
+      "ratingCount": "(34,822)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/2779762_87e5_4.jpg",
+      "Title": "DevOps , CI/CD(Continuous Integration/Delivery for Beginners",
+      "detials": "Learn about CI CD & DevOps & the concepts of Continuous Integration, Continuous Delivery / Deployment, DevOps & pipeline",
+      "duration": "1 total hour",
+      "lecture": "13 lectures",
+      "ratings": "4.4",
+      "ratingCount": "(30,048)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/671576_a272_4.jpg",
+      "Title": "Machine Learning, Data Science and Deep Learning with Python",
+      "detials": "Complete hands-on machine learning tutorial with data science, Tensorflow, artificial intelligence, and neural networks",
+      "duration": "15.5 total hours",
+      "lecture": "116 lectures",
+      "ratings": "4.6",
+      "ratingCount": "(28,834)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1743420_0062.jpg",
+      "Title": "JavaScript Basics for Beginners",
+      "detials": "JavaScript - Master the Fundamentals in 6 Hours",
+      "duration": "6.5 total hours",
+      "lecture": "105 lectures",
+      "ratings": "4.6",
+      "ratingCount": "(28,480)"
+    },
+    {
+      "image": "https://img-b.udemycdn.com/course/240x135/1350984_2355_6.jpg",
+      "Title": "The Modern Python 3 Bootcamp",
+      "detials": "A Unique Interactive Python Experience With Nearly 200 Exercises and Quizzes",
+      "duration": "30.5 total hours",
+      "lecture": "377 lectures",
+      "ratings": "4.7",
+      "ratingCount": "(28,188)"
+    }
+
+  ]
+} 
+
