@@ -4,10 +4,18 @@ import DarkLogo from"../Images/DarkLogo.png"
 import LightLogo from"../Images/LightLogo.jpeg"
 import { useContext } from "react"
 import { ThemeContext } from "../Context/ThemeContext"
+import { AuthContext } from "../Context/AuthContext"
+import { VscAccount } from "react-icons/vsc";
 
-function Navbar(){
+
+
+
+function Navbar({handleCheck}){
 
     const {theme,toggleTheme} = useContext(ThemeContext);
+    const {isAuth,name} = useContext(AuthContext);
+    console.log(isAuth,name)
+
 
     const activeStyle = {
         textDecoration:"none",
@@ -26,8 +34,9 @@ function Navbar(){
         fontWeight:"700",
         padding:"12px 2px",
         height:"30px"
-
     }
+
+    
 
     return <div style={{
         width: "100%",
@@ -37,6 +46,7 @@ function Navbar(){
         alignItems: "center",
         position: "fixed",
         top: "0",
+        // border:"1px solid red",
         zIndex:"3"
     }}>
         <div 
@@ -103,22 +113,38 @@ function Navbar(){
                 :
                 <MoonIcon boxSize="20" style={{cursor:"pointer",marginTop:"10px"}} onClick={()=>toggleTheme()}/>
             }
+            { isAuth ?
+                <p style={{display:'flex',justifyContent:'center',alignItems:'center',gap:"5px",fontSize:'15px',fontWeight:"500"}}>
+                    <VscAccount style={{marginTop:'1px'}}/> 
+                    Hi {name} <span class="material-symbols-outlined">
+                                    waving_hand
+                                </span>
+                </p>
 
-            <button  style={{
-                padding:"12px 20px",
-                backgroundColor:theme ? "rgb(0, 208, 180)" : "rgb(0, 89, 80)",
-                border:"0px",
-                borderRadius:"15px",
-                color:theme ? "rgb(0, 89, 80)" : "white",
-                cursor:'pointer',
-                fontWeight:"bold",
-                fontSize:'13px'
-            }}
-            >Sign In
-            </button>
+                :
+
+                <button
+                    onClick={()=>handleCheck(true)}
+                    style={{
+                        padding:"12px 20px",
+                        backgroundColor:theme ? "rgb(0, 208, 180)" : "rgb(0, 89, 80)",
+                        border:"0px",
+                        borderRadius:"15px",
+                        color:theme ? "rgb(0, 89, 80)" : "white",
+                        cursor:'pointer',
+                        fontWeight:"bold",
+                        fontSize:'13px'
+                    }}
+                >
+                    Sign In
+                </button>
+                
+            }
+            
+              
         </div>
         </div>
-        <hr style={{width:"98%",border:"1px solid rgb(229, 229, 229)",marginTop:"-1.5px"}}/>
+        <hr style={{width:"98%",border:"1px solid rgb(210, 210, 210)",marginTop:"-1.5px"}}/>
     </div>
 }
 

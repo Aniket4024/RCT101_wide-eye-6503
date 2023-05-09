@@ -4,6 +4,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom';
 import ThemeContextProvider from './Context/ThemeContext';
+import AuthContextProvider from "./Context/AuthContext"
 
 // import "~slick-carousel/slick/slick.css"; 
 // import "~slick-carousel/slick/slick-theme.css";
@@ -13,10 +14,12 @@ import ThemeContextProvider from './Context/ThemeContext';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
-     <ThemeContextProvider>
-      <BrowserRouter>
-        <App />
-      </BrowserRouter>
+    <ThemeContextProvider>
+      <AuthContextProvider>
+        <BrowserRouter>
+          <App />
+        </BrowserRouter>
+      </AuthContextProvider>
     </ThemeContextProvider>
 );
 

@@ -10,10 +10,12 @@ import Home7 from "./PageComponents/HomeComponents/Home7"
 
 function Home(){
 
-    const {theme} = useContext(ThemeContext)
+
+
+    const {theme} = useContext(ThemeContext);
 
     return <div style={{
-        backgroundColor:theme?"#005950":"white"
+        backgroundColor:theme?"#005950":"white",
     }}>
         <Home1/>
         <Home2/>
@@ -22,6 +24,7 @@ function Home(){
         <Home5/>
         <Home6/>
         <Home7/>
+        
     </div>
 }
 
