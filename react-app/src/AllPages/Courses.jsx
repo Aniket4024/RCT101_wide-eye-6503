@@ -11,10 +11,10 @@ import { Spinner } from '@chakra-ui/react'
 
 const getURL = (page,search)=>{
     if(search!==""){
-        return `https://68gp5v.sse.codesandbox.io/products?q=${search}&_limit=20&_page=${page}`;
+        return `http://localhost:8080/products?q=${search}&_limit=20&_page=${page}`;
     }
     else{
-        return `https://68gp5v.sse.codesandbox.io/products?_limit=20&_page=${page}`;   
+        return `http://localhost:8080/products?_limit=20&_page=${page}`;   
     }
 }
 
@@ -61,7 +61,7 @@ function Courses(){
 
     const handleSort = (value)=>{
         setLoading(true)
-        fetch(`https://68gp5v.sse.codesandbox.io/products?_sort=ratings&_order=${value}&_limit=20&_page=${page}`)
+        fetch(`http://localhost:8080/products?_sort=ratings&_order=${value}&_limit=20&_page=${page}`)
         .then((res)=>res.json())
         .then((data1)=>{
             setLoading(false)
